@@ -1,0 +1,20 @@
+=========================================
+[Time]       : 2024-08-23 12:40:22
+[JobID]      : 8237516
+[JobName]    : mtkx-md0036-a1d01-auto
+[Time Spend] : 1.91874194145 
+[State]      : Warning
+[StateCode]  : 200
+[User]       : incam-incam
+[Exec_ID]    : 239416
+[Program]    : Pass
+[ProgramVer] : 240704
+[Software]   : incam 
+[Source]     : Design
+[EXEC_MODE]  : Manual
+[TRversion]  : Test
+[Database]   : Dev
+===================LOG=================== 
+[Info] : 2024-08-23 12:40:22 /InCAM/server/site_data/scripts/AutoCAM2.0/Test/Main_Pass/Test/Pass-240704-1-1105 
+[Warning] : 2024-08-23 12:40:24 http://ws125:31251/ 
+[Info] : 2024-08-23 12:40:25 End File 200

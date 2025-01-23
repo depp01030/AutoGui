@@ -1,0 +1,19 @@
+#!/bin/csh
+echo '*1************************ save job pre ************************************'
+#echo 'test' >> '/InCAMPro/server/site_data/scripts/andrew/joblist'  
+set joblist = '/InCAMPro/server/site_data/scripts/backup_ing/joblist'
+source $1
+echo $lnPARAM
+echo $lnVAL
+set backup_file_name = `awk 'NR ==1 {print $1}' $joblist `
+echo $JOB
+echo $backup_file_name
+if ( $backup_file_name == $JOB ) then
+  echo 'end'
+  COM skip_current_command
+  PAUSE 'this file is backuping'
+  #echo 'save' >> '/InCAMPro/server/site_data/scripts/backup_ing/joblist'
+else
+  echo 'sec'
+  #echo 'else' >> '/InCAMPro/server/site_data/scripts/backup_ing/joblist'
+endif

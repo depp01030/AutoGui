@@ -1,0 +1,27 @@
+=========================================
+[Time]       : 2024-03-29 09:02:29
+[JobID]      : 9293717
+[JobName]    : tsmc-dd033j-v1d01-auto
+[Time Spend] : 1.43099689484 
+[User]       : incam-incam
+[Exec_ID]    : 658172
+[Program]    : Error
+[ProgramVer] : 240329
+[Software]   : incam 
+[Source]     : Design
+[EXEC_MODE]  : Manual
+[TRversion]  : Test
+[Database]   : Dev
+===================LOG=================== 
+[Info] : 2024-03-29 09:02:30 809777 
+[Info] : 2024-03-29 09:02:30 Traceback (most recent call last):
+  File "/InCAM/server/site_data/scripts/AutoCAM2.0/Test/Main_Error/Test/Error-240329-1/Model.py", line 39, in main
+    print(10/0)
+ZeroDivisionError: integer division or modulo by zero
+ 
+[Error] : 2024-03-29 09:02:30 Traceback (most recent call last):
+  File "/InCAM/server/site_data/scripts/AutoCAM2.0/Test/Main_Error/Test/Error-240329-1/Model.py", line 39, in main
+    print(10/0)
+ZeroDivisionError: integer division or modulo by zero
+ 
+[Info] : 2024-03-29 09:02:32 End File 500

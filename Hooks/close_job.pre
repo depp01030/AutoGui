@@ -1,0 +1,5 @@
+#!/bin/csh
+source $1
+echo "=================== close ==================="
+python /InCAM/server/site_data/scripts/AutoCAM2.0/mainWindow/ClosePost.py
+

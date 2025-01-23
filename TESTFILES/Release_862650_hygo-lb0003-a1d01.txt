@@ -1,0 +1,18 @@
+=========================================
+[Time]       : 2024-09-05 01:16:35
+[JobID]      : 1204025
+[JobName]    : hygo-lb0003-a1d01
+[Time Spend] : 12.1889488697 
+[State]      : Pass
+[StateCode]  : 200
+[User]       : genesis-fan
+[Exec_ID]    : 862650
+[Program]    : DeleteOutprofObjRout
+[ProgramVer] : 1
+[Software]   : incam 
+[Source]     : Design
+[EXEC_MODE]  : Manual
+[TRversion]  : Release
+[Database]   : User
+===================LOG=================== 
+[Info] : 2024-09-05 01:16:55 End File 200

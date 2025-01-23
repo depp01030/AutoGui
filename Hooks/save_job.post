@@ -1,0 +1,10 @@
+#!/bin/csh
+source $1
+python /InCAM/server/site_data/scripts/AutoCAM2.0/mainWindow/SavePost.py
+if ( $lnPARAM[1] == 'job' ) then
+  set tdate = `date '+%Y %m %d %R' | awk -F' ' '{print $1-1911"-"$2"-"$3"-"$4}'` 
+  COM get_user_name
+  set USER = `echo "$COMANS"`
+  #echo $lnVAL[1] $tdate $USER >> /InCAMPro/server/site_data/scripts/andrew/joblist      
+endif
+

@@ -1,0 +1,1 @@
+{'UserName': 'genesis-fan', 'JobName': 'hygo-lb0003-a1d01', 'StateCode': '200', 'ProgramState': 'Pass', 'Software': 'incam', 'IsSave': 0, 'ExecID': '862650', 'TRVer': 'Release', 'ProgramVer': '1', 'ExecMode': 'Manual', 'LogMsg': '[]', 'LogTime': '2024-09-05 01:16:55', 'RunTime': 12.1889488697}

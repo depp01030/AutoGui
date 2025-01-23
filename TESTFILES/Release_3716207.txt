@@ -1,0 +1,1 @@
+{'UserName': 'genesis-chia', 'JobName': 'qctx-ot0076', 'StateCode': '200', 'ProgramState': 'Pass', 'Software': 'incam', 'IsSave': 0, 'ExecID': '220241', 'TRVer': 'Release', 'ProgramVer': '240624-1-1440', 'ExecMode': 'Auto', 'LogMsg': '[]', 'LogTime': '2024-09-05 17:35:24', 'RunTime': 0.94249701499899996}
